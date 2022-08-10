@@ -1,0 +1,3 @@
+/home/bob/School/Public/2610.x22.public/cstrings/cmake-build-debug/CMakeFiles/cstrings.dir
+/home/bob/School/Public/2610.x22.public/cstrings/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bob/School/Public/2610.x22.public/cstrings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

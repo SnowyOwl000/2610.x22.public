@@ -1,0 +1,4 @@
+# ninja log v5
+0	782	1660660259966788014	CMakeFiles/Dice.dir/main.cpp.o	6251c15cec19b90d
+0	784	1660660259970790014	CMakeFiles/Dice.dir/die.cpp.o	623bcc8f0d1274aa
+784	930	1660660260110860012	Dice	9be198aabb6eb403
